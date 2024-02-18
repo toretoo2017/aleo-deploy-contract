@@ -4,7 +4,7 @@ Go to: http://aleo.tools/develop
 • Enter the private key
 • Click hello_hello aleo
 
-program hello_hello.aleo;
+•  program hello_hello.aleo;
 
 function hello:
     input r0 as u32.public;
