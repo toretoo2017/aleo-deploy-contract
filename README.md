@@ -12,4 +12,4 @@ function hello:
     add r0 r1 into r2;
     output r2 as u32.private;
 
-    • Deploy contract
+  Deploy contract
