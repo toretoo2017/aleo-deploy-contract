@@ -13,3 +13,5 @@ function hello:
     output r2 as u32.private;
 
   Deploy contract
+
+Done!
